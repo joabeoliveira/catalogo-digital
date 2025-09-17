@@ -1,0 +1,27 @@
+[19-Apr-2024 16:37:29 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home/guiashopapp/public_html/painel/pedidos/index.php on line 470
+[19-Apr-2024 16:37:31 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home/guiashopapp/public_html/painel/pedidos/index.php on line 470
+[19-Apr-2024 16:37:50 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home/guiashopapp/public_html/painel/pedidos/index.php on line 469
+[19-Apr-2024 16:38:58 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home/guiashopapp/public_html/painel/pedidos/index.php on line 470
+[19-Apr-2024 16:39:01 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home/guiashopapp/public_html/painel/pedidos/index.php on line 470
+[19-Apr-2024 16:39:02 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home/guiashopapp/public_html/painel/pedidos/index.php on line 470
+[19-Apr-2024 16:39:18 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home/guiashopapp/public_html/painel/pedidos/index.php on line 470
+[19-Apr-2024 16:53:06 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/guiashopapp/public_html/painel/pedidos/index.php on line 883
+[19-Apr-2024 16:55:20 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/guiashopapp/public_html/painel/pedidos/index.php on line 881
+[19-Apr-2024 16:56:26 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/guiashopapp/public_html/painel/pedidos/index.php on line 883
+[19-Apr-2024 17:06:48 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/guiashopapp/public_html/painel/pedidos/index.php on line 880
+[19-Apr-2024 17:17:12 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ''));' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in /home/guiashopapp/public_html/painel/pedidos/index.php on line 474
+[19-Apr-2024 17:17:14 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ''));' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in /home/guiashopapp/public_html/painel/pedidos/index.php on line 474
+[19-Apr-2024 17:17:16 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ''));' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in /home/guiashopapp/public_html/painel/pedidos/index.php on line 474
+[19-Apr-2024 17:17:18 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ''));' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in /home/guiashopapp/public_html/painel/pedidos/index.php on line 474
+[19-Apr-2024 17:17:19 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ''));' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in /home/guiashopapp/public_html/painel/pedidos/index.php on line 474
+[19-Apr-2024 17:17:31 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ''));' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in /home/guiashopapp/public_html/painel/pedidos/index.php on line 474
+[19-Apr-2024 17:17:50 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '');' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in /home/guiashopapp/public_html/painel/pedidos/index.php on line 474
+[19-Apr-2024 17:17:51 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '');' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in /home/guiashopapp/public_html/painel/pedidos/index.php on line 474
+[19-Apr-2024 17:18:26 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '');' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in /home/guiashopapp/public_html/painel/pedidos/index.php on line 475
+[19-Apr-2024 17:18:28 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '');' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in /home/guiashopapp/public_html/painel/pedidos/index.php on line 475
+[19-Apr-2024 17:18:33 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected end of file in /home/guiashopapp/public_html/painel/pedidos/index.php on line 880
+[19-Apr-2024 17:18:49 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '');' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in /home/guiashopapp/public_html/painel/pedidos/index.php on line 475
+[19-Apr-2024 17:18:50 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '');' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in /home/guiashopapp/public_html/painel/pedidos/index.php on line 475
+[19-Apr-2024 17:20:22 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '');;' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in /home/guiashopapp/public_html/painel/pedidos/index.php on line 475
+[19-Apr-2024 17:22:42 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '$', expecting ';' or ',' in /home/guiashopapp/public_html/painel/pedidos/index.php on line 480
+[19-Apr-2024 17:23:47 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ''refresh'' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in /home/guiashopapp/public_html/painel/pedidos/index.php on line 480
